@@ -7,6 +7,6 @@
 
 使用方法：
 
-1.npm install  安装electron相关
-2.node tcpS.js 打开服务器
-3.npm start 打开客服端 
+1. npm install  安装electron相关
+2. node tcpS.js 打开服务器
+3. npm start 打开客服端 
